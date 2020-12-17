@@ -1,0 +1,2 @@
+*aqui copiar apikey que viene desde riotgame api*
+Link: https://developer.riotgames.com
