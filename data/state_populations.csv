@@ -1,0 +1,661 @@
+state,year,pop
+Alabama,1976,3713998.8
+Alaska,1976,361263.4
+American Samoa,1976,30241.8
+Arizona,1976,2339289.0
+Arkansas,1976,2141179.0
+California,1976,22181994.8
+Colorado,1976,2616882.0
+Connecticut,1976,3077229.2
+Delaware,1976,575844.4
+District of Columbia,1976,685603.8
+Florida,1976,8563571.6
+Georgia,1976,5113693.0
+Guam,1976,97573.8
+Hawaii,1976,886239.0
+Idaho,1976,851387.8
+Illinois,1976,11301501.2
+Indiana,1976,5371602.0
+Iowa,1976,2878035.2
+Kansas,1976,2316838.6
+Kentucky,1976,3483948.6
+Louisiana,1976,3980062.4
+Maine,1976,1071615.2
+Maryland,1976,4099144.6
+Massachusetts,1976,5717890.2
+Michigan,1976,9107280.0
+Minnesota,1976,3967570.4
+Mississippi,1976,2399147.6
+Missouri,1976,4820612.0
+Montana,1976,749777.6
+Nebraska,1976,1535292.2
+Nevada,1976,675791.0
+New Hampshire,1976,847438.4
+New Jersey,1976,7286159.4
+New Mexico,1976,1188136.4
+New York,1976,17829630.0
+North Carolina,1976,5561883.2
+North Dakota,1976,638734.6
+Northern Mariana Islands [note 18],1976,13852.0
+Ohio,1976,10739384.8
+Oklahoma,1976,2838865.6
+Oregon,1976,2416417.0
+Pacific Trust Territory [note 16][note 19],1976,90527.8
+Palau [note 20][note 21],1976,11753.6
+Panama Canal Zone [note 16],1976,nan
+Pennsylvania,1976,11835900.6
+Puerto Rico,1976,3002725.2
+Rhode Island,1976,946982.4
+South Carolina,1976,2909298.4
+South Dakota,1976,680663.6
+Tennessee,1976,4324146.8
+Texas,1976,13016206.6
+U.S. Virgin Islands,1976,82928.6
+Utah,1976,1300331.4
+Vermont,1976,484605.6
+Virginia,1976,5067488.4
+Washington,1976,3842961.2
+West Virginia,1976,1867481.2
+Wisconsin,1976,4590552.6
+Wyoming,1976,414700.6
+United States,1976,217212253.4
+Alabama,1980,3893888.0
+Alaska,1980,401851.0
+American Samoa,1980,32297.0
+Arizona,1980,2718215.0
+Arkansas,1980,2286435.0
+California,1980,23667902.0
+Colorado,1980,2889964.0
+Connecticut,1980,3107576.0
+Delaware,1980,594338.0
+District of Columbia,1980,638333.0
+Florida,1980,9746324.0
+Georgia,1980,5463105.0
+Guam,1980,105979.0
+Hawaii,1980,964691.0
+Idaho,1980,943935.0
+Illinois,1980,11426518.0
+Indiana,1980,5490224.0
+Iowa,1980,2913808.0
+Kansas,1980,2363679.0
+Kentucky,1980,3660777.0
+Louisiana,1980,4205900.0
+Maine,1980,1124660.0
+Maryland,1980,4216975.0
+Massachusetts,1980,5737037.0
+Michigan,1980,9262078.0
+Minnesota,1980,4075970.0
+Mississippi,1980,2520638.0
+Missouri,1980,4916686.0
+Montana,1980,786690.0
+Nebraska,1980,1569825.0
+Nevada,1980,800493.0
+New Hampshire,1980,920610.0
+New Jersey,1980,7364823.0
+New Mexico,1980,1302894.0
+New York,1980,17558072.0
+North Carolina,1980,5881766.0
+North Dakota,1980,652717.0
+Northern Mariana Islands [note 18],1980,16780.0
+Ohio,1980,10797630.0
+Oklahoma,1980,3025290.0
+Oregon,1980,2633105.0
+Pacific Trust Territory [note 16][note 19],1980,104033.0
+Palau [note 20][note 21],1980,12116.0
+Panama Canal Zone [note 16],1980,nan
+Pennsylvania,1980,11863895.0
+Puerto Rico,1980,3196520.0
+Rhode Island,1980,947154.0
+South Carolina,1980,3121820.0
+South Dakota,1980,690768.0
+Tennessee,1980,4591120.0
+Texas,1980,14229191.0
+U.S. Virgin Islands,1980,96569.0
+Utah,1980,1461037.0
+Vermont,1980,511456.0
+Virginia,1980,5346818.0
+Washington,1980,4132156.0
+West Virginia,1980,1949644.0
+Wisconsin,1980,4705767.0
+Wyoming,1980,469557.0
+United States,1980,226545805.0
+Alabama,1984,3952567.6
+Alaska,1984,461127.8
+American Samoa,1984,38087.4
+Arizona,1984,3097020.2
+Arkansas,1984,2312151.0
+California,1984,26104749.6
+Colorado,1984,3051736.0
+Connecticut,1984,3179392.0
+Delaware,1984,623070.0
+District of Columbia,1984,625759.8
+Florida,1984,11022964.8
+Georgia,1984,5869149.4
+Guam,1984,116848.2
+Hawaii,1984,1022106.2
+Idaho,1984,969060.6
+Illinois,1984,11428151.6
+Indiana,1984,5511798.0
+Iowa,1984,2858986.8
+Kansas,1984,2409237.0
+Kentucky,1984,3670584.6
+Louisiana,1984,4211529.2
+Maine,1984,1165967.2
+Maryland,1984,4442772.2
+Massachusetts,1984,5848792.2
+Michigan,1984,9275365.6
+Minnesota,1984,4195621.6
+Mississippi,1984,2541669.2
+Missouri,1984,4996840.8
+Montana,1984,791640.0
+Nebraska,1984,1573249.0
+Nevada,1984,961029.0
+New Hampshire,1984,996066.8
+New Jersey,1984,7510969.0
+New Mexico,1984,1387764.0
+New York,1984,17731025.2
+North Carolina,1984,6180514.4
+North Dakota,1984,647150.2
+Northern Mariana Islands [note 18],1984,27406.0
+Ohio,1984,10817424.0
+Oklahoma,1984,3073408.0
+Oregon,1984,2716791.4
+Pacific Trust Territory [note 16][note 19],1984,nan
+Palau [note 20][note 21],1984,13318.4
+Panama Canal Zone [note 16],1984,nan
+Pennsylvania,1984,11870994.2
+Puerto Rico,1984,3326726.8
+Rhode Island,1984,969678.0
+South Carolina,1984,3267773.2
+South Dakota,1984,692862.4
+Tennessee,1984,4705546.0
+Texas,1984,15332118.6
+U.S. Virgin Islands,1984,98665.0
+Utah,1984,1565762.2
+Vermont,1984,531976.8
+Virginia,1984,5683034.0
+Washington,1984,4425970.4
+West Virginia,1984,1887177.2
+Wisconsin,1984,4780167.8
+Wyoming,1984,463169.4
+United States,1984,235411432.2
+Alabama,1988,4011247.2
+Alaska,1988,520404.6
+American Samoa,1988,43877.8
+Arizona,1988,3475825.4
+Arkansas,1988,2337867.0
+California,1988,28541597.2
+Colorado,1988,3213508.0
+Connecticut,1988,3251208.0
+Delaware,1988,651802.0
+District of Columbia,1988,613186.6
+Florida,1988,12299605.6
+Georgia,1988,6275193.8
+Guam,1988,127717.4
+Hawaii,1988,1079521.4
+Idaho,1988,994186.2
+Illinois,1988,11429785.2
+Indiana,1988,5533372.0
+Iowa,1988,2804165.6
+Kansas,1988,2454795.0
+Kentucky,1988,3680392.2
+Louisiana,1988,4217158.4
+Maine,1988,1207274.4
+Maryland,1988,4668569.4
+Massachusetts,1988,5960547.4
+Michigan,1988,9288653.2
+Minnesota,1988,4315273.2
+Mississippi,1988,2562700.4
+Missouri,1988,5076995.6
+Montana,1988,796590.0
+Nebraska,1988,1576673.0
+Nevada,1988,1121565.0
+New Hampshire,1988,1071523.6
+New Jersey,1988,7657115.0
+New Mexico,1988,1472634.0
+New York,1988,17903978.4
+North Carolina,1988,6479262.8
+North Dakota,1988,641583.4
+Northern Mariana Islands [note 18],1988,38032.0
+Ohio,1988,10837218.0
+Oklahoma,1988,3121526.0
+Oregon,1988,2800477.8
+Pacific Trust Territory [note 16][note 19],1988,nan
+Palau [note 20][note 21],1988,14520.8
+Panama Canal Zone [note 16],1988,nan
+Pennsylvania,1988,11878093.4
+Puerto Rico,1988,3456933.6
+Rhode Island,1988,992202.0
+South Carolina,1988,3413726.4
+South Dakota,1988,694956.8
+Tennessee,1988,4819972.0
+Texas,1988,16435046.2
+U.S. Virgin Islands,1988,100761.0
+Utah,1988,1670487.4
+Vermont,1988,552497.6
+Virginia,1988,6019250.0
+Washington,1988,4719784.8
+West Virginia,1988,1824710.4
+Wisconsin,1988,4854568.6
+Wyoming,1988,456781.8
+United States,1988,244277059.4
+Alabama,1992,4121889.6
+Alaska,1992,565420.8
+American Samoa,1992,48876.6
+Arizona,1992,3958308.8
+Arkansas,1992,2415260.0
+California,1992,30582346.4
+Colorado,1992,3495767.4
+Connecticut,1992,3310805.8
+Delaware,1992,689654.4
+District of Columbia,1992,599931.8
+Florida,1992,13546816.4
+Georgia,1992,6819863.4
+Guam,1992,137482.6
+Hawaii,1992,1128890.6
+Idaho,1992,1064189.8
+Illinois,1992,11628340.2
+Indiana,1992,5651424.2
+Iowa,1992,2806668.8
+Kansas,1992,2519742.8
+Kentucky,1992,3756590.6
+Louisiana,1992,4269773.6
+Maine,1992,1237327.0
+Maryland,1992,4884471.6
+Massachusetts,1992,6082959.4
+Michigan,1992,9423926.4
+Minnesota,1992,4483975.0
+Mississippi,1992,2627504.4
+Missouri,1992,5212700.6
+Montana,1992,819691.0
+Nebraska,1992,1604960.6
+Nevada,1992,1361117.8
+New Hampshire,1992,1134558.8
+New Jersey,1992,7867020.4
+New Mexico,1992,1575864.4
+New York,1992,18187655.4
+North Carolina,1992,6912772.2
+North Dakota,1992,639480.0
+Northern Mariana Islands [note 18],1992,48520.2
+Ohio,1992,10948320.0
+Oklahoma,1992,3206598.8
+Oregon,1992,2958136.6
+Pacific Trust Territory [note 16][note 19],1992,nan
+Palau [note 20][note 21],1992,nan
+Panama Canal Zone [note 16],1992,nan
+Pennsylvania,1992,11961525.2
+Puerto Rico,1992,3579351.6
+Rhode Island,1992,1012435.0
+South Carolina,1992,3591764.8
+South Dakota,1992,707772.0
+Tennessee,1992,5039604.6
+Texas,1992,17759572.0
+U.S. Virgin Islands,1992,103169.6
+Utah,1992,1824913.8
+Vermont,1992,571971.8
+Virginia,1992,6365589.4
+Washington,1992,5072177.8
+West Virginia,1992,1796450.4
+Wisconsin,1992,4986150.2
+Wyoming,1992,461626.8
+United States,1992,255252279.6
+Alabama,1996,4284494.8
+Alaska,1996,596176.4
+American Samoa,1996,53083.8
+Arizona,1996,4544470.4
+Arkansas,1996,2544330.0
+California,1996,32226997.2
+Colorado,1996,3898514.2
+Connecticut,1996,3358185.4
+Delaware,1996,736627.2
+District of Columbia,1996,585995.4
+Florida,1996,14764597.2
+Georgia,1996,7503158.2
+Guam,1996,146143.8
+Hawaii,1996,1170213.8
+Idaho,1996,1179071.4
+Illinois,1996,12023816.6
+Indiana,1996,5865954.6
+Iowa,1996,2866496.4
+Kansas,1996,2604080.4
+Kentucky,1996,3899179.8
+Louisiana,1996,4369374.8
+Maine,1996,1256125.0
+Maryland,1996,5090478.8
+Massachusetts,1996,6216028.2
+Michigan,1996,9681185.2
+Minnesota,1996,4701727.0
+Mississippi,1996,2736081.2
+Missouri,1996,5403955.8
+Montana,1996,860943.0
+Nebraska,1996,1658111.8
+Nevada,1996,1679687.4
+New Hampshire,1996,1185172.4
+New Jersey,1996,8140685.2
+New Mexico,1996,1697455.2
+New York,1996,18582056.2
+North Carolina,1996,7481042.6
+North Dakota,1996,640840.0
+Northern Mariana Islands [note 18],1996,58870.6
+Ohio,1996,11150730.0
+Oklahoma,1996,3328626.4
+Oregon,1996,3189767.8
+Pacific Trust Territory [note 16][note 19],1996,nan
+Palau [note 20][note 21],1996,nan
+Panama Canal Zone [note 16],1996,nan
+Pennsylvania,1996,12121289.6
+Puerto Rico,1996,3693980.8
+Rhode Island,1996,1030377.0
+South Carolina,1996,3801888.4
+South Dakota,1996,731308.0
+Tennessee,1996,5364443.8
+Texas,1996,19305696.0
+U.S. Virgin Islands,1996,105890.8
+Utah,1996,2029041.4
+Vermont,1996,590399.4
+Virginia,1996,6722052.2
+Washington,1996,5483149.4
+West Virginia,1996,1802397.2
+Wisconsin,1996,5174912.6
+Wyoming,1996,477704.4
+United States,1996,268337092.8
+Alabama,2000,4447100.0
+Alaska,2000,626932.0
+American Samoa,2000,57291.0
+Arizona,2000,5130632.0
+Arkansas,2000,2673400.0
+California,2000,33871648.0
+Colorado,2000,4301261.0
+Connecticut,2000,3405565.0
+Delaware,2000,783600.0
+District of Columbia,2000,572059.0
+Florida,2000,15982378.0
+Georgia,2000,8186453.0
+Guam,2000,154805.0
+Hawaii,2000,1211537.0
+Idaho,2000,1293953.0
+Illinois,2000,12419293.0
+Indiana,2000,6080485.0
+Iowa,2000,2926324.0
+Kansas,2000,2688418.0
+Kentucky,2000,4041769.0
+Louisiana,2000,4468976.0
+Maine,2000,1274923.0
+Maryland,2000,5296486.0
+Massachusetts,2000,6349097.0
+Michigan,2000,9938444.0
+Minnesota,2000,4919479.0
+Mississippi,2000,2844658.0
+Missouri,2000,5595211.0
+Montana,2000,902195.0
+Nebraska,2000,1711263.0
+Nevada,2000,1998257.0
+New Hampshire,2000,1235786.0
+New Jersey,2000,8414350.0
+New Mexico,2000,1819046.0
+New York,2000,18976457.0
+North Carolina,2000,8049313.0
+North Dakota,2000,642200.0
+Northern Mariana Islands [note 18],2000,69221.0
+Ohio,2000,11353140.0
+Oklahoma,2000,3450654.0
+Oregon,2000,3421399.0
+Pacific Trust Territory [note 16][note 19],2000,nan
+Palau [note 20][note 21],2000,nan
+Panama Canal Zone [note 16],2000,nan
+Pennsylvania,2000,12281054.0
+Puerto Rico,2000,3808610.0
+Rhode Island,2000,1048319.0
+South Carolina,2000,4012012.0
+South Dakota,2000,754844.0
+Tennessee,2000,5689283.0
+Texas,2000,20851820.0
+U.S. Virgin Islands,2000,108612.0
+Utah,2000,2233169.0
+Vermont,2000,608827.0
+Virginia,2000,7078515.0
+Washington,2000,5894121.0
+West Virginia,2000,1808344.0
+Wisconsin,2000,5363675.0
+Wyoming,2000,493782.0
+United States,2000,281421906.0
+Alabama,2004,4580154.4
+Alaska,2004,660251.6
+American Samoa,2004,56582.2
+Arizona,2004,5635186.0
+Arkansas,2004,2770407.2
+California,2004,35224571.2
+Colorado,2004,4592435.0
+Connecticut,2004,3472977.8
+Delaware,2004,829333.6
+District of Columbia,2004,583924.6
+Florida,2004,17109950.8
+Georgia,2004,8786933.0
+Guam,2004,156626.2
+Hawaii,2004,1271042.6
+Idaho,2004,1403404.6
+Illinois,2004,12583828.6
+Indiana,2004,6241811.8
+Iowa,2004,2974336.4
+Kansas,2004,2754298.0
+Kentucky,2004,4160808.2
+Louisiana,2004,4494734.4
+Maine,2004,1296298.2
+Maryland,2004,5487312.4
+Massachusetts,2004,6428509.8
+Michigan,2004,9916522.4
+Minnesota,2004,5073257.4
+Mississippi,2004,2893713.6
+Missouri,2004,5752697.4
+Montana,2004,937083.0
+Nebraska,2004,1757294.2
+Nevada,2004,2279174.6
+New Hampshire,2004,1268059.6
+New Jersey,2004,8565367.6
+New Mexico,2004,1915099.2
+New York,2004,19137115.0
+North Carolina,2004,8643781.0
+North Dakota,2004,654356.4
+Northern Mariana Islands [note 18],2004,63085.8
+Ohio,2004,11426485.6
+Oklahoma,2004,3570932.8
+Oregon,2004,3585269.0
+Pacific Trust Territory [note 16][note 19],2004,nan
+Palau [note 20][note 21],2004,nan
+Panama Canal Zone [note 16],2004,nan
+Pennsylvania,2004,12449584.0
+Puerto Rico,2004,3775481.6
+Rhode Island,2004,1050018.2
+South Carolina,2004,4257352.8
+South Dakota,2004,778578.4
+Tennessee,2004,5952011.8
+Texas,2004,22569316.4
+U.S. Virgin Islands,2004,107729.2
+Utah,2004,2445455.4
+Vermont,2004,615592.6
+Virginia,2004,7447518.6
+Washington,2004,6226288.6
+West Virginia,2004,1826204.0
+Wisconsin,2004,5492999.4
+Wyoming,2004,521719.6
+United States,2004,292351358.8
+Alabama,2008,4713208.8
+Alaska,2008,693571.2
+American Samoa,2008,55873.4
+Arizona,2008,6139740.0
+Arkansas,2008,2867414.4
+California,2008,36577494.4
+Colorado,2008,4883609.0
+Connecticut,2008,3540390.6
+Delaware,2008,875067.2
+District of Columbia,2008,595790.2
+Florida,2008,18237523.6
+Georgia,2008,9387413.0
+Guam,2008,158447.4
+Hawaii,2008,1330548.2
+Idaho,2008,1512856.2
+Illinois,2008,12748364.2
+Indiana,2008,6403138.6
+Iowa,2008,3022348.8
+Kansas,2008,2820178.0
+Kentucky,2008,4279847.4
+Louisiana,2008,4520492.8
+Maine,2008,1317673.4
+Maryland,2008,5678138.8
+Massachusetts,2008,6507922.6
+Michigan,2008,9894600.8
+Minnesota,2008,5227035.8
+Mississippi,2008,2942769.2
+Missouri,2008,5910183.8
+Montana,2008,971971.0
+Nebraska,2008,1803325.4
+Nevada,2008,2560092.2
+New Hampshire,2008,1300333.2
+New Jersey,2008,8716385.2
+New Mexico,2008,2011152.4
+New York,2008,19297773.0
+North Carolina,2008,9238249.0
+North Dakota,2008,666512.8
+Northern Mariana Islands [note 18],2008,56950.6
+Ohio,2008,11499831.2
+Oklahoma,2008,3691211.6
+Oregon,2008,3749139.0
+Pacific Trust Territory [note 16][note 19],2008,nan
+Palau [note 20][note 21],2008,nan
+Panama Canal Zone [note 16],2008,nan
+Pennsylvania,2008,12618114.0
+Puerto Rico,2008,3742353.2
+Rhode Island,2008,1051717.4
+South Carolina,2008,4502693.6
+South Dakota,2008,802312.8
+Tennessee,2008,6214740.6
+Texas,2008,24286812.8
+U.S. Virgin Islands,2008,106846.4
+Utah,2008,2657741.8
+Vermont,2008,622358.2
+Virginia,2008,7816522.2
+Washington,2008,6558456.2
+West Virginia,2008,1844064.0
+Wisconsin,2008,5622323.8
+Wyoming,2008,549657.2
+United States,2008,303280811.6
+Alabama,2012,4846263.2
+Alaska,2012,726890.8
+American Samoa,2012,55164.6
+Arizona,2012,6644294.0
+Arkansas,2012,2964421.6
+California,2012,37930417.6
+Colorado,2012,5174783.0
+Connecticut,2012,3607803.4
+Delaware,2012,920800.8
+District of Columbia,2012,607655.8
+Florida,2012,19365096.4
+Georgia,2012,9987893.0
+Guam,2012,160268.6
+Hawaii,2012,1390053.8
+Idaho,2012,1622307.8
+Illinois,2012,12912899.8
+Indiana,2012,6564465.4
+Iowa,2012,3070361.2
+Kansas,2012,2886058.0
+Kentucky,2012,4398886.6
+Louisiana,2012,4546251.2
+Maine,2012,1339048.6
+Maryland,2012,5868965.2
+Massachusetts,2012,6587335.4
+Michigan,2012,9872679.2
+Minnesota,2012,5380814.2
+Mississippi,2012,2991824.8
+Missouri,2012,6067670.2
+Montana,2012,1006859.0
+Nebraska,2012,1849356.6
+Nevada,2012,2841009.8
+New Hampshire,2012,1332606.8
+New Jersey,2012,8867402.8
+New Mexico,2012,2107205.6
+New York,2012,19458431.0
+North Carolina,2012,9832717.0
+North Dakota,2012,678669.2
+Northern Mariana Islands [note 18],2012,50815.4
+Ohio,2012,11573176.8
+Oklahoma,2012,3811490.4
+Oregon,2012,3913009.0
+Pacific Trust Territory [note 16][note 19],2012,nan
+Palau [note 20][note 21],2012,nan
+Panama Canal Zone [note 16],2012,nan
+Pennsylvania,2012,12786644.0
+Puerto Rico,2012,3709224.8
+Rhode Island,2012,1053416.6
+South Carolina,2012,4748034.4
+South Dakota,2012,826047.2
+Tennessee,2012,6477469.4
+Texas,2012,26004309.2
+U.S. Virgin Islands,2012,105963.6
+Utah,2012,2870028.2
+Vermont,2012,629123.8
+Virginia,2012,8185525.8
+Washington,2012,6890623.8
+West Virginia,2012,1861924.0
+Wisconsin,2012,5751648.2
+Wyoming,2012,577594.8
+United States,2012,314210264.4
+Alabama,2016,4979317.6
+Alaska,2016,760210.4
+American Samoa,2016,54455.8
+Arizona,2016,7148848.0
+Arkansas,2016,3061428.8
+California,2016,39283340.8
+Colorado,2016,5465957.0
+Connecticut,2016,3675216.2
+Delaware,2016,966534.4
+District of Columbia,2016,619521.4
+Florida,2016,20492669.2
+Georgia,2016,10588373.0
+Guam,2016,162089.8
+Hawaii,2016,1449559.4
+Idaho,2016,1731759.4
+Illinois,2016,13077435.4
+Indiana,2016,6725792.2
+Iowa,2016,3118373.6
+Kansas,2016,2951938.0
+Kentucky,2016,4517925.8
+Louisiana,2016,4572009.6
+Maine,2016,1360423.8
+Maryland,2016,6059791.6
+Massachusetts,2016,6666748.2
+Michigan,2016,9850757.6
+Minnesota,2016,5534592.6
+Mississippi,2016,3040880.4
+Missouri,2016,6225156.6
+Montana,2016,1041747.0
+Nebraska,2016,1895387.8
+Nevada,2016,3121927.4
+New Hampshire,2016,1364880.4
+New Jersey,2016,9018420.4
+New Mexico,2016,2203258.8
+New York,2016,19619089.0
+North Carolina,2016,10427185.0
+North Dakota,2016,690825.6
+Northern Mariana Islands [note 18],2016,44680.2
+Ohio,2016,11646522.4
+Oklahoma,2016,3931769.2
+Oregon,2016,4076879.0
+Pacific Trust Territory [note 16][note 19],2016,nan
+Palau [note 20][note 21],2016,nan
+Panama Canal Zone [note 16],2016,nan
+Pennsylvania,2016,12955174.0
+Puerto Rico,2016,3676096.4
+Rhode Island,2016,1055115.8
+South Carolina,2016,4993375.2
+South Dakota,2016,849781.6
+Tennessee,2016,6740198.2
+Texas,2016,27721805.6
+U.S. Virgin Islands,2016,105080.8
+Utah,2016,3082314.6
+Vermont,2016,635889.4
+Virginia,2016,8554529.4
+Washington,2016,7222791.4
+West Virginia,2016,1879784.0
+Wisconsin,2016,5880972.6
+Wyoming,2016,605532.4
+United States,2016,325139717.2
