@@ -20,7 +20,11 @@ Dentro de este repositorio podrás encontrar el zip que contiene la base origina
 
 ## Dashboard 
 
-La liga es la siguiente:
+La liga del dashboard es la siguiente:
 
 https://datastudio.google.com/reporting/2f0a95a7-8fcd-4445-bcfe-5b1214b6e84b
+
+dejo de igual manera la liga de colab, donde se realizó el código y se pueden ver gráficas por medio de matplotlib y folium:
+
+https://colab.research.google.com/drive/1QotU3_2Vy1VUjFUyIchid8qdysuLYaSe?usp=sharing
 
