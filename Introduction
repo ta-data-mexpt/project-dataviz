@@ -1,0 +1,7 @@
+Project dataviz:
+
+Cartrend son dashboards dinamicos montados en el sistema de Power Bi, los cuales permiten el análisis de los precios de las acciones de las compañias automotrices. 
+
+El usuario podra seleccionar entre la acciones de Ford, TSLA, Toyota, General Motors para ver su evolución en el tiempo, cual ha sido su correlación con el volumen de transacciones, cual ha sido el precio maximo el precio minimo y cual ha sido el rango de los precios en los que mas predomina la accion. 
+
+Esto con el motivo de brindarle al ususario más herramientas para su toma de decicones al momento de invertir.
