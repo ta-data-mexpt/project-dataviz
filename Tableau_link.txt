@@ -1,0 +1,3 @@
+Link a la pagina donde esta guardado el workbook con las graficas
+
+https://public.tableau.com/profile/emilio.flores.cort.s#!/vizhome/Project-data-visualization/WL
