@@ -2,11 +2,11 @@
 
 
 
-# Delitos de género en Ciudad de México
+# Delitos de género y feminicidio en CDMX.
 
 ## Overview
 
-El objetivo de estre proyecto es explorar los datos de las carpetas de investigación de la Fiscalía General de Justicia de la Ciudad de México. Dado que los casos de interés son los delitos de género, la base de datos original ha sido limpiada para ubicar aquellos casos donde la violencia pueda ser cometida en contra de las mujeres. La base de datos trabajada no muestra información referente a las víctimas y sus características demográficas o sociales, sin embargo muestra información geográfica para la ubicación de los hechos. Esto último ha permitido rastrear espacialmente los delitos seleccionados, encontrando ciertos patrones referenciales para algunas alcaldías de la ciudad y algunas de sus colonias.
+El objetivo de estre proyecto es explorar los datos de las carpetas de investigación de la Fiscalía General de Justicia de la Ciudad de México. Dado que los casos de interés son los delitos de género, la base de datos original ha sido limpiada para ubicar delitos donde la violencia pueda ser cometida en contra de las mujeres. La base de datos trabajada no muestra información referente a las víctimas y sus características demográficas o sociales, sin embargo muestra información geográfica para la ubicación de los hechos. Esto último ha permitido rastrear espacialmente los delitos seleccionados, encontrando ciertos patrones referenciales para algunas alcaldías de la ciudad y algunas de sus colonias.
 
 ---
 
