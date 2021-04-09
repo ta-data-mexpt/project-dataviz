@@ -17,5 +17,10 @@ Basic Python visualizations
 
 <a name="links"></a>
 
+## Notes
+
+-Do visit the discussion:
+* [It helps me out!](https://github.com/urdaibayc/Project-Datavis/discussions/1)
+
 ## Reach out!
 * [LinkedIn](https://www.linkedin.com/in/cosme-urdaibay/)
