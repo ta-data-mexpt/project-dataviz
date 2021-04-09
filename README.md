@@ -7,7 +7,7 @@
 *Data Analytics, México & sep20 - mar21*
 
 ## Content
-- Basic matplotlib and pandas visualizations
+- Basic matplotlib,seaborn and pandas visualizations
 
 <a name="project-description"></a>
 
