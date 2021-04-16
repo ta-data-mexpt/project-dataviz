@@ -12,7 +12,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Basic Python visualizations
+Basic visualizations examples of what you could need in a basic report.
 
 
 <a name="links"></a>
