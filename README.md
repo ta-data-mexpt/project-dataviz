@@ -2,51 +2,20 @@
 
 # Project: Visualizing Real World Data
 
-## Overview
+## Cómo hice este proyecto
 
-The goal of this project is to practice creating and interpreting different types of visualizations using real world data.
+Hace algunos años trabajaba como periodista y el análisis de bases de datos era parte normal de mi trabajo. Recibir archivos con información para analizar y descubrir insights relevantes es algo común, así que hacer este proyecto fue de cierta forma retomar esa tarea que alguna vez hice.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+Cuando encontré la [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets) estuve explorando un poco los datasets relacionados con el gobierno de mi país, México. Ahí descubrí que el gobierno tiene el espacio público https://datos.gob.mx/ y encontré un dataset de la Procuraduría General de Justicia con información de las carpetas de investigación abiertas en la CDMX entre 2016 y 2019. 
 
----
+Bajé el archivo .csv y lo trabajé primero en Jupyterlab para limpiarlo, aunque realmente estaba bastante organizado. Lo único que hice fue unir columnas que estaban duplicadas. 
 
-## Technical Requirements
+Como siguiente paso, lo abrí en Tableau y fue ahí en donde comencé a explorar los datos. 
+Elegí el top 5 de delitos y eliminé la "Denuncia de hechos", que no es un delito como tal. 
+Después, noté que había muchas categorías separadas para diferentes tipos de robo, de modo que los agrupé, lo que permitió ver que en el top 5 de delitos, 4 de ellos son diferentes tipos de robo y solo 1 era diferente, la violencia familiar. Marqué con otro color distinto este último, mientras que los robos los dejé en la misma gama de colores.
 
-The technical requirements for this project are as follows:
+Lo siguiente que hice fue explorar los delitos y hechos con menos denuncias y encontré algunos con nombres extraños y de cierto modo llamativos, como bigamia, robo de fluidos, revelación de secretos, contagio venéreo y muerte por congestión alcohólica. También los representé en una gráfica y decidí enfocarme en las muertes por congestión alcohólica. Descubrí que hubo una caída en los datos del último año del dataset, debido a que los registros se cortan en junio por un cambio en la dependencia que los originó. Traté de predecir a través de una gráfica si los siguientes meses seguirían las tendencias, pero se descubrió que no era así. 
 
- - Select a dataset from a public source.
- - Create a Jupyter noteboosk to analyze the data
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
- - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
+Finalmente, representé un mapa con cruces para señalar los puntos donde se presentaron las muertes y cerré con un mapa de calor para identificar la zona en la que este hecho sucedió con más frecuencia.
 
-## Necessary Deliverables
-
-The following deliverables should be pushed to your Github repo for this chapter.
-
-- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis.
-- **A data folder** containing your data set.
-
-## Suggested Ways to Get Started
-
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets), [Kaggle Data Sets](https://www.kaggle.com/datasets), or the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). A great new source is the [Google dataset search](https://toolbox.google.com/datasetsearch).
-* **Perform Preliminary Analysis** - use functions like `describe` to help guide you to the correct insight and data visualization. 
-* **Use the tools in your tool kit** - your knowledge of the different types of visualizations and when to use them should come in handy with this assignment.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectations, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+Mi proyecto se puede encontrar en: https://public.tableau.com/app/profile/gilda5256/viz/CarpetasPGJ2016-2019/Portada?publish=yes
